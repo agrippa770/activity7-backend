@@ -18,7 +18,7 @@ module.exports = function guide(baseUrl) {
 </head>
 <body>
 <h1>Campus Maintenance Requests API</h1>
-<p><strong>Project:</strong> Campus Maintenance Requests &nbsp;|&nbsp; <strong>Student number:</strong> 345919 &nbsp;|&nbsp; ICT251 Activity 7, Mulungushi University</p>
+<p><strong>Project:</strong> Campus Maintenance Requests &nbsp;|&nbsp; <strong>Student number:</strong> 202505368 &nbsp;|&nbsp; ICT251 Activity 7, Mulungushi University</p>
 <p>This independent Node.js and Express backend stores campus maintenance requests (broken lights, leaking taps, damaged furniture) in a PostgreSQL database and shares them as JSON.</p>
 
 <p><strong>Base URL:</strong> <code>${baseUrl}</code></p>
